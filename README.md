@@ -5,7 +5,7 @@ It is based on the AngularJS Seed project.
 
 ## Getting Started
 
-To get you started you can simply clone the **TieRoller** repository and install the dependencies:
+To get you started you can simply fork and clone the **TieRoller** repository and install the dependencies:
 
 ### Prerequisites
 
